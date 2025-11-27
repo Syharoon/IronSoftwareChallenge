@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="OldPhonePad.App/OldPhonePad.App.csproj" />
+  <Project Path="OldPhonePad.Core/OldPhonePad.Core.csproj" />
+  <Project Path="OldPhonePad.Tests/OldPhonePad.Tests.csproj" />
+</Solution>
